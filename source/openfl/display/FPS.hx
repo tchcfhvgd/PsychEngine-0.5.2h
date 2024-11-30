@@ -10,7 +10,7 @@ import lime.system.System as LimeSystem;
 	The FPS class provides an easy-to-use monitor to display
 	the current frame rate of an OpenFL project
 **/
-class FPSCounter extends TextField
+class FPS extends TextField
 {
 	/**
 		The current frame rate, expressed using frames-per-second
